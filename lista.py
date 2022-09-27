@@ -1,0 +1,25 @@
+persona1={"nombre":"lucho1","apellido":"soto1"}
+conjunto=[persona1]
+persona2={"nombre":"lucho2","apellido":"soto2"}
+conjunto.append(persona2)
+persona3={"nombre":"lucho3","apellido":"soto3"}
+conjunto.append(persona3)
+persona4={"nombre":"lucho4","apellido":"soto4"}
+conjunto.append(persona4)
+persona5={"nombre":"lucho5","apellido":"soto5"}
+conjunto.append(persona5)
+persona6={"nombre":"lucho6","apellido":"soto6"}
+conjunto.append(persona6)
+persona7={"nombre":"lucho7","apellido":"soto7"}
+conjunto.append(persona7)
+persona8={"nombre":"lucho8","apellido":"soto8"}
+conjunto.append(persona8)
+persona9={"nombre":"lucho9","apellido":"soto9"}
+conjunto.append(persona9)
+persona10={"nombre":"lucho10","apellido":"soto10"}
+conjunto.append(persona10)
+print(conjunto)
+i:0
+while i<10:
+    print(i)
+    i=i+1
